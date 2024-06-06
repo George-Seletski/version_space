@@ -1,0 +1,196 @@
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa1c47b8632520116003ea_About Image 1.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa1c47b8632520116003ea_About Image 1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa317141b01384479051c5_Arrow Icon.svg
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa317141b01384479051c5_Arrow Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa3bbaaab89ff3edf53423_About Image 1.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa3bbaaab89ff3edf53423_About Image 1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa4953768bf690530fd8db_Link Arrow.svg
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa4953768bf690530fd8db_Link Arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa4d1b055cec8b4f535673_Footer Big Text-p-1080.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa4d1b055cec8b4f535673_Footer Big Text-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa4d1b055cec8b4f535673_Footer Big Text-p-500.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa4d1b055cec8b4f535673_Footer Big Text-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa4d1b055cec8b4f535673_Footer Big Text-p-800.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa4d1b055cec8b4f535673_Footer Big Text-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65aa4d1b055cec8b4f535673_Footer Big Text.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa4d1b055cec8b4f535673_Footer Big Text.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65ab8e748eb857e69fca71f4_About Image 2 .webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65ab8e748eb857e69fca71f4_About Image 2 .webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65abe06d5470576bf54aeced_Link Arrow - Black.svg
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65abe06d5470576bf54aeced_Link Arrow - Black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65ac082bdc8160cda6d1a0c2_Favicon.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65ac082bdc8160cda6d1a0c2_Favicon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/65ac08326bbdaa898d07ce49_Webclip.png
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65ac08326bbdaa898d07ce49_Webclip.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/css/gray-template.webflow.cd92899f5.css
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\css\gray-template.webflow.cd92899f5.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/65aa1c47b8632520116003e0/js/webflow.3029a770b.js
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\js\webflow.3029a770b.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65aa2e79a3b9b7df622755c8_Gallery 23.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65aa2e79a3b9b7df622755c8_Gallery 23.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65aa2e973d353c839054802a_Gallery 26-p-1080.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65aa2e973d353c839054802a_Gallery 26-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65aa2e973d353c839054802a_Gallery 26-p-500.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65aa2e973d353c839054802a_Gallery 26-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65aa2e973d353c839054802a_Gallery 26-p-800.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65aa2e973d353c839054802a_Gallery 26-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65aa2e973d353c839054802a_Gallery 26.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65aa2e973d353c839054802a_Gallery 26.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf621523ec6982b852989_Gallery 30.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf621523ec6982b852989_Gallery 30.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6263654c86da09e5c0c_Gallery 34.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6263654c86da09e5c0c_Gallery 34.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6336aa5617c479cf68b_Gallery 31.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6336aa5617c479cf68b_Gallery 31.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6416aa5617c479cfb89_Gallery 27.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6416aa5617c479cfb89_Gallery 27.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6856537d287c5f48b92_Gallery 29.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6856537d287c5f48b92_Gallery 29.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf695cf24d57ccadbd664_Gallery 33.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf695cf24d57ccadbd664_Gallery 33.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6ca8eb857e69f0410dd_Gallery 28.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6ca8eb857e69f0410dd_Gallery 28.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6d16537d287c5f4adc4_Gallery 32.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6d16537d287c5f4adc4_Gallery 32.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6f36537d287c5f4c14f_Gallery 24-p-1080.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6f36537d287c5f4c14f_Gallery 24-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6f36537d287c5f4c14f_Gallery 24-p-500.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6f36537d287c5f4c14f_Gallery 24-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6f36537d287c5f4c14f_Gallery 24-p-800.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6f36537d287c5f4c14f_Gallery 24-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf6f36537d287c5f4c14f_Gallery 24.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf6f36537d287c5f4c14f_Gallery 24.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf7022aee5f464d9681a9_Gallery 25-p-1080.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf7022aee5f464d9681a9_Gallery 25-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf7022aee5f464d9681a9_Gallery 25-p-500.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf7022aee5f464d9681a9_Gallery 25-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf7022aee5f464d9681a9_Gallery 25-p-800.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf7022aee5f464d9681a9_Gallery 25-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/65aa2dc7066305c0d7173f15/65abf7022aee5f464d9681a9_Gallery 25.webp
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa2dc7066305c0d7173f15\65abf7022aee5f464d9681a9_Gallery 25.webp
+Content Type: image/webp
+
+Uri: https://assets.website-files.com/65aa1c47b8632520116003e0/65aa21f23761c869a39a041b_Switzer-Medium.woff
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa21f23761c869a39a041b_Switzer-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/65aa1c47b8632520116003e0/65aa21f3778b7bf02d7e20bb_Switzer-Regular.woff
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\65aa1c47b8632520116003e0\65aa21f3778b7bf02d7e20bb_Switzer-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65aa1c47b8632520116003e0
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://gray-template.webflow.io/
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/about
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/contact
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/info/changelog
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\info\changelog.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/info/license
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\info\license.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/info/style-guide
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\info\style-guide.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/work
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\work.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/work/levi
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\work\levi.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/work/ronan
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\work\ronan.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/work/seven-studio
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\work\seven-studio.html
+Content Type: text/html
+
+Uri: https://gray-template.webflow.io/work/will
+File Name: C:\Downloaded Web Sites\gray-template.webflow.io\work\will.html
+Content Type: text/html
+

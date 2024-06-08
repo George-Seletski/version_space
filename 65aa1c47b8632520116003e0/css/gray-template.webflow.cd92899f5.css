@@ -3165,6 +3165,10 @@ figcaption {
         -webkit-text-stroke-width: .3px;
         font-size: 1.6rem;
     }
+    .sublarge-text,
+    .large-text.em {
+        font-size: 1rem !important;
+    }
     .text-field {
         min-height: 3rem;
         margin-bottom: 1.5rem;

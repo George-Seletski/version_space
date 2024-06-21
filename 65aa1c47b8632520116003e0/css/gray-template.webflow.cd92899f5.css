@@ -1105,6 +1105,23 @@ textarea.w-select {
     left: 50%;
 }
 
+.high-light {
+    font-family: 'Zodiak-Regular';
+    font-size: 2em;
+}
+
+.high-light.onex {
+    font-family: 'Zodiak-Regular';
+    font-size: 1.5em;
+    line-height: 1;
+}
+
+.high-light.em {
+    font-family: 'Zodiak-Italic';
+    font-size: 1em;
+    line-height: 1;
+}
+
 .w-widget-twitter-count-shim.w--vertical:before {
     border-width: 5px;
     border-color: #5d6c7b rgba(117, 134, 150, 0) rgba(117, 134, 150, 0);
@@ -2095,7 +2112,7 @@ h1 {
     -webkit-text-stroke-width: 1px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 5rem;
     font-weight: 400;
     line-height: 110%;
@@ -2107,7 +2124,7 @@ h2 {
     -webkit-text-stroke-width: .8px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 120%;
@@ -2119,7 +2136,7 @@ h3 {
     -webkit-text-stroke-width: .6px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 2.6rem;
     font-weight: 400;
     line-height: 120%;
@@ -2131,7 +2148,7 @@ h4 {
     -webkit-text-stroke-width: .4px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 2rem;
     font-weight: 400;
     line-height: 130%;
@@ -2143,7 +2160,7 @@ h5 {
     -webkit-text-stroke-width: .4px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.2rem;
     font-weight: 400;
     line-height: 140%;
@@ -2155,7 +2172,7 @@ h6 {
     -webkit-text-stroke-width: .4px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 140%;
@@ -2166,7 +2183,7 @@ p {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
     margin-bottom: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1rem;
     line-height: 140%;
 }
@@ -2233,7 +2250,7 @@ figcaption {
     letter-spacing: -.2px;
     -webkit-text-stroke-width: .2px;
     margin-top: .5rem;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1rem;
     line-height: 140%;
 }
@@ -2245,7 +2262,7 @@ figcaption {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
     padding: 0 0 .25rem;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 140%;
 }
@@ -2258,7 +2275,7 @@ figcaption {
     color: var(--black-100);
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .8px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 3rem;
     line-height: 120%;
 }
@@ -2298,7 +2315,7 @@ figcaption {
     -webkit-text-stroke-width: .4px;
     margin-bottom: 2rem;
     padding: 1.5rem 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 140%;
 }
@@ -2314,7 +2331,7 @@ figcaption {
     -webkit-text-stroke-width: .4px;
     margin-bottom: 2rem;
     padding: 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 140%;
 }
@@ -2375,14 +2392,14 @@ figcaption {
     letter-spacing: -.2px;
     -webkit-text-stroke-width: .2px;
     margin-bottom: 2rem;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .rich-text blockquote {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
     margin-bottom: 4rem;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .error-message {
@@ -2391,7 +2408,7 @@ figcaption {
     -webkit-text-stroke-width: .4px;
     margin-top: 2rem;
     padding: .75rem 1rem;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1rem;
 }
 
@@ -2400,7 +2417,7 @@ figcaption {
     text-align: left;
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.2rem;
     line-height: 140%;
 }
@@ -2410,7 +2427,7 @@ figcaption {
     text-align: left;
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 2.5rem;
     line-height: 140%;
 }
@@ -2428,7 +2445,7 @@ figcaption {
     text-align: left;
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 130%;
 }
@@ -2439,7 +2456,7 @@ figcaption {
     -webkit-text-stroke-width: .4px;
     background-color: #f5f5f5;
     padding: .75rem 1rem;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1rem;
 }
 
@@ -2530,7 +2547,7 @@ figcaption {
 .logo-text {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 130%;
     text-decoration: none;
@@ -2544,7 +2561,7 @@ figcaption {
 .nav-item {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 140%;
     text-decoration: none;
@@ -2557,7 +2574,7 @@ figcaption {
 .hero-heading {
     letter-spacing: -1px;
     -webkit-text-stroke-width: 1px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 3.5rem;
     font-weight: 400;
     line-height: 120%;
@@ -2566,7 +2583,7 @@ figcaption {
 .section-title {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     font-weight: 400;
     line-height: 140%;
@@ -2580,7 +2597,7 @@ figcaption {
 .project-title {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 130%;
 }
@@ -2617,7 +2634,7 @@ figcaption {
     color: var(--black-50);
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 130%;
     text-decoration: none;
@@ -2646,7 +2663,7 @@ figcaption {
     color: var(--black-100);
     letter-spacing: -.3px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 130%;
 }
@@ -2746,7 +2763,7 @@ figcaption {
     color: var(--white-100);
     letter-spacing: -.3px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.2rem;
     line-height: 140%;
     text-decoration: none;
@@ -2892,7 +2909,7 @@ figcaption {
     border-radius: 0;
     margin-bottom: 4rem;
     padding: 1.5rem 0;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 140%;
 }
@@ -2938,7 +2955,7 @@ figcaption {
 .field-label {
     letter-spacing: -.4px;
     -webkit-text-stroke-width: .4px;
-    font-family: Switzer, Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 @media screen and (max-width: 991px) {

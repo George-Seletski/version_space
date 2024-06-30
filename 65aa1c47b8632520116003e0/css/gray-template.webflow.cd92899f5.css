@@ -1117,7 +1117,8 @@ textarea.w-select {
 }
 
 .high-light.em {
-    font-family: 'Zodiak-Italic';
+    font-family: 'Zodiak-Italic' !important;
+    font-style: italic !important;
     font-size: 1em;
     line-height: 1;
 }
